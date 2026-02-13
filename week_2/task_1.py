@@ -1,8 +1,4 @@
-# # STUDENT GRADE INPUT With Grade class
-# #Ensure you are able to filder out wrong input
-# # 3.5 - 4.00 first class honours
-# # 3.0
-# #
+
 # #You are going to get input from a student. And then tell them their class of grade. Ensure that you are able to filter out wrong input
 
 # 3.5- 4.00 – First Class Honours
