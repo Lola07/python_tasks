@@ -19,3 +19,19 @@ else:
     print("Third class honours")
 
     # filter out wrong output
+else:
+print("Invalid grade")
+
+#corrected version with boundaries
+grade = float (input ("Enter your grade"))
+
+if grade >=  3.5 and grade  <= 4.00:
+    print("First Class Honours")
+elif grade >= 3.00 and grade <= 3.49:
+    print("Second Class Honours (Upper Division)")
+elif grade >= 2.00 and grade  <= 2.99:
+    print("Second Class Honours (Lower Division)")
+elif grade >= 1.00 and grade  <= 1.99:
+    print("Third class honours")
+else:
+   print("Invalid grade")
