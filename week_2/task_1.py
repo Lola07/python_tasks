@@ -17,7 +17,6 @@ elif grade >= 2.99:
     print("Second Class Honours (Lower Division)")
 else:
     print("Third class honours")
-
     # filter out wrong output
 else:
 print("Invalid grade")
